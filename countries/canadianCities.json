@@ -1,0 +1,29 @@
+{
+  "items": [
+    { "name": "Toronto, Ontario", "img": "placeholder" },
+    { "name": "Vancouver, British Columbia", "img": "placeholder" },
+    { "name": "Montreal, Quebec", "img": "placeholder" },
+    { "name": "Calgary, Alberta", "img": "placeholder" },
+    { "name": "Ottawa, Ontario", "img": "placeholder" },
+    { "name": "Edmonton, Alberta", "img": "placeholder" },
+    { "name": "Quebec City, Quebec", "img": "placeholder" },
+    { "name": "Winnipeg, Manitoba", "img": "placeholder" },
+    { "name": "Hamilton, Ontario", "img": "placeholder" },
+    { "name": "Mississauga, Ontario", "img": "placeholder" },
+    { "name": "Niagara Falls, Ontario", "img": "placeholder" },
+    { "name": "Victoria, British Columbia", "img": "placeholder" },
+    { "name": "Halifax, Nova Scotia", "img": "placeholder" },
+    { "name": "Saskatoon, Saskatchewan", "img": "placeholder" },
+    { "name": "Regina, Saskatchewan", "img": "placeholder" },
+    { "name": "London, Ontario", "img": "placeholder" },
+    { "name": "St. John's, Newfoundland and Labrador", "img": "placeholder" },
+    { "name": "Kelowna, British Columbia", "img": "placeholder" },
+    { "name": "Whistler, British Columbia", "img": "placeholder" },
+    { "name": "Brampton, Ontario", "img": "placeholder" },
+    { "name": "Kitchener, Ontario", "img": "placeholder" },
+    { "name": "Windsor, Ontario", "img": "placeholder" },
+    { "name": "Oshawa, Ontario", "img": "placeholder" },
+    { "name": "Banff, Alberta", "img": "placeholder" },
+    { "name": "Surrey, British Columbia", "img": "placeholder" }
+  ]
+}
