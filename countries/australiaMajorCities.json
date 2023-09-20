@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "name": "Sydney, Australia", "img": "placeholder" },
+    { "name": "Melbourne, Australia", "img": "placeholder" },
+    { "name": "Auckland, New Zealand", "img": "placeholder" },
+    { "name": "Brisbane, Australia", "img": "placeholder" },
+    { "name": "Perth, Australia", "img": "placeholder" }
+  ]
+}
