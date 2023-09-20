@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "name": "Alberta", "img": "placeholder" },
+    { "name": "British Columbia", "img": "placeholder" },
+    { "name": "Manitoba", "img": "placeholder" },
+    { "name": "New Brunswick", "img": "placeholder" },
+    { "name": "Newfoundland and Labrador", "img": "placeholder" },
+    { "name": "Nova Scotia", "img": "placeholder" },
+    { "name": "Ontario", "img": "placeholder" },
+    { "name": "Prince Edward Island", "img": "placeholder" },
+    { "name": "Quebec", "img": "placeholder" },
+    { "name": "Saskatchewan", "img": "placeholder" }
+  ]
+}
