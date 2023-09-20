@@ -1,0 +1,16 @@
+{
+  "items": [
+    { "name": "Argentina", "img": "placeholder" },
+    { "name": "Bolivia", "img": "placeholder" },
+    { "name": "Brazil", "img": "placeholder" },
+    { "name": "Chile", "img": "placeholder" },
+    { "name": "Colombia", "img": "placeholder" },
+    { "name": "Ecuador", "img": "placeholder" },
+    { "name": "Guyana", "img": "placeholder" },
+    { "name": "Paraguay", "img": "placeholder" },
+    { "name": "Peru", "img": "placeholder" },
+    { "name": "Suriname", "img": "placeholder" },
+    { "name": "Uruguay", "img": "placeholder" },
+    { "name": "Venezuela", "img": "placeholder" }
+  ]
+}
