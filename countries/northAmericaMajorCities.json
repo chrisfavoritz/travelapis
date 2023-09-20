@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "New York City, USA", "img": "placeholder" },
+    { "name": "Los Angeles, USA", "img": "placeholder" },
+    { "name": "Mexico City, Mexico", "img": "placeholder" },
+    { "name": "Toronto, Canada", "img": "placeholder" },
+    { "name": "Chicago, USA", "img": "placeholder" },
+    { "name": "Miami, USA", "img": "placeholder" }
+  ]
+}
