@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "name": "Australia", "img": "placeholder" },
+    { "name": "Fiji", "img": "placeholder" },
+    { "name": "Kiribati", "img": "placeholder" },
+    { "name": "Marshall Islands", "img": "placeholder" },
+    { "name": "Micronesia", "img": "placeholder" },
+    { "name": "Nauru", "img": "placeholder" },
+    { "name": "New Zealand", "img": "placeholder" },
+    { "name": "Palau", "img": "placeholder" },
+    { "name": "Papua New Guinea", "img": "placeholder" },
+    { "name": "Samoa", "img": "placeholder" },
+    { "name": "Solomon Islands", "img": "placeholder" },
+    { "name": "Tonga", "img": "placeholder" },
+    { "name": "Tuvalu", "img": "placeholder" },
+    { "name": "Vanuatu", "img": "placeholder" }
+  ]
+}
