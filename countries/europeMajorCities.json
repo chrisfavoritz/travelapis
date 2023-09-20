@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "London, United Kingdom", "img": "placeholder" },
+    { "name": "Paris, France", "img": "placeholder" },
+    { "name": "Rome, Italy", "img": "placeholder" },
+    { "name": "Barcelona, Spain", "img": "placeholder" },
+    { "name": "Istanbul, Turkey", "img": "placeholder" },
+    { "name": "Moscow, Russia", "img": "placeholder" }
+  ]
+}
