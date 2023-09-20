@@ -1,0 +1,27 @@
+{
+  "items": [
+    { "name": "Antigua and Barbuda", "img": "placeholder" },
+    { "name": "Bahamas", "img": "placeholder" },
+    { "name": "Barbados", "img": "placeholder" },
+    { "name": "Belize", "img": "placeholder" },
+    { "name": "Canada", "img": "placeholder" },
+    { "name": "Costa Rica", "img": "placeholder" },
+    { "name": "Cuba", "img": "placeholder" },
+    { "name": "Dominica", "img": "placeholder" },
+    { "name": "Dominican Republic", "img": "placeholder" },
+    { "name": "El Salvador", "img": "placeholder" },
+    { "name": "Grenada", "img": "placeholder" },
+    { "name": "Guatemala", "img": "placeholder" },
+    { "name": "Haiti", "img": "placeholder" },
+    { "name": "Honduras", "img": "placeholder" },
+    { "name": "Jamaica", "img": "placeholder" },
+    { "name": "Mexico", "img": "placeholder" },
+    { "name": "Nicaragua", "img": "placeholder" },
+    { "name": "Panama", "img": "placeholder" },
+    { "name": "Saint Kitts and Nevis", "img": "placeholder" },
+    { "name": "Saint Lucia", "img": "placeholder" },
+    { "name": "Saint Vincent and the Grenadines", "img": "placeholder" },
+    { "name": "Trinidad and Tobago", "img": "placeholder" },
+    { "name": "United States of America", "img": "placeholder" }
+  ]
+}
