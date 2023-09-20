@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "Buenos Aires, Argentina", "img": "placeholder" },
+    { "name": "Rio de Janeiro, Brazil", "img": "placeholder" },
+    { "name": "Lima, Peru", "img": "placeholder" },
+    { "name": "Bogotá, Colombia", "img": "placeholder" },
+    { "name": "Santiago, Chile", "img": "placeholder" },
+    { "name": "Sao Paulo, Brazil", "img": "placeholder" }
+  ]
+}
