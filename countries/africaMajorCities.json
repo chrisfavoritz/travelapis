@@ -1,0 +1,10 @@
+{
+  "items": [
+    { "name": "Cairo, Egypt", "img": "https://images.unsplash.com/photo-1595979904086-471704dc0e81?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+    { "name": "Marrakech, Morocco", "img": "https://images.unsplash.com/photo-1517820880872-a008906947aa?q=80&w=1312&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+    { "name": "Cape Town, South Africa", "img": "https://images.unsplash.com/photo-1580060860978-d479ebf95a53?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+    { "name": "Johannesburg, South Africa", "img": "https://images.unsplash.com/photo-1678777724000-1438f926c09d?q=80&w=1227&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+    { "name": "Nairobi, Kenya", "img": "https://images.unsplash.com/photo-1611144727915-ef30a08aaeb3?q=80&w=1286&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+    { "name": "Casablanca, Morocco", "img": "https://images.unsplash.com/photo-1590654643716-2eaca12ce6ff?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" }
+  ]
+}
